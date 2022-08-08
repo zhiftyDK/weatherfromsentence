@@ -16,6 +16,7 @@ weatherFromSentence(inputSentence, "Example_weathermap_api_key")
 })
 ```
 
+### Data set
 The data we recieve looks like this
 ```JSON
 {
