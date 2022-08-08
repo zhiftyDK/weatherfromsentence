@@ -40,3 +40,12 @@ The data we recieve looks like this
     }
 }
 ```
+
+```js story
+export const JsStory = () => {
+  const calculateSomething = 12;
+  return html`
+    <demo-wc-card .header=${`Something: ${calculateSomething}`}>JS Story</demo-wc-card>
+  `;
+};
+```
