@@ -49,3 +49,6 @@ export const JsStory = () => {
   `;
 };
 ```
+```html preview-story
+<demo-wc-card>HTML Preview Story</demo-wc-card>
+```
