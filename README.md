@@ -9,7 +9,7 @@ Include the library in your `.html` file
 Example: Calling the function and retrieving data
 ```JS
 const inputSentence = "what is the weather like in london
-weatherFromSentence(inputSentence, "weathermap_api_key")
+weatherFromSentence(inputSentence, "Weathermap_api_key")
 .then(data => {
     //Do whatever you want with the data here
     console.log(data);
