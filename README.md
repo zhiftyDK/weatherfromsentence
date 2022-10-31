@@ -8,7 +8,7 @@ Include the library in your `.html` file
 ### How to use
 Example: Calling the function and retrieving data
 ```JS
-const inputSentence = "what is the weather like in london
+const inputSentence = "what is the weather like in london"
 weatherFromSentence(inputSentence, "Weathermap_api_key")
 .then(data => {
     //Do whatever you want with the data here
